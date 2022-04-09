@@ -1,0 +1,21 @@
+.one {
+    color: rgb(255, 255, 255);
+    background-color: rgb(221, 37, 110);
+    font-family: "Verdana", "Dejavu Sans", "sans-serif";
+}
+
+#two {
+    color: rgb(4, 4, 247); 
+    font-size: 32px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(87, 250, 133); 
+    font-size: 24px; 
+    font-weight: 700;
+}
+
